@@ -1,0 +1,1151 @@
+[
+    {
+        "category": "katakana",
+        "questions": [
+            {
+                "text": "a",
+                "answer": "ア",
+                "options": [
+                    "チュ",
+                    "ア",
+                    "バ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "i",
+                "answer": "イ",
+                "options": [
+                    "イ",
+                    "ビャ",
+                    "サ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "u",
+                "answer": "ウ",
+                "options": [
+                    "ウ",
+                    "パ",
+                    "ミュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "e",
+                "answer": "エ",
+                "options": [
+                    "エ",
+                    "ギュ",
+                    "ガ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "o",
+                "answer": "オ",
+                "options": [
+                    "オ",
+                    "フ",
+                    "ミュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ka",
+                "answer": "カ",
+                "options": [
+                    "ギャ",
+                    "メ",
+                    "カ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ki",
+                "answer": "キ",
+                "options": [
+                    "キ",
+                    "ブ",
+                    "ミュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ku",
+                "answer": "ク",
+                "options": [
+                    "ピョ",
+                    "ク",
+                    "ゼ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ke",
+                "answer": "ケ",
+                "options": [
+                    "ニョ",
+                    "ケ",
+                    "シ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ko",
+                "answer": "コ",
+                "options": [
+                    "イ",
+                    "チ",
+                    "コ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "sa",
+                "answer": "サ",
+                "options": [
+                    "ゴ",
+                    "サ",
+                    "シュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "shi",
+                "answer": "シ",
+                "options": [
+                    "ズ",
+                    "シ",
+                    "ガ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "su",
+                "answer": "ス",
+                "options": [
+                    "ス",
+                    "レ",
+                    "チョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "se",
+                "answer": "セ",
+                "options": [
+                    "セ",
+                    "ツ",
+                    "ジュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "so",
+                "answer": "ソ",
+                "options": [
+                    "ソ",
+                    "モ",
+                    "ジョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ta",
+                "answer": "タ",
+                "options": [
+                    "タ",
+                    "キ",
+                    "ミョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "chi",
+                "answer": "チ",
+                "options": [
+                    "ヒョ",
+                    "チ",
+                    "ワ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "tsu",
+                "answer": "ツ",
+                "options": [
+                    "ア",
+                    "ツ",
+                    "メ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "te",
+                "answer": "テ",
+                "options": [
+                    "テ",
+                    "ヒョ",
+                    "タ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "to",
+                "answer": "ト",
+                "options": [
+                    "キャ",
+                    "ヂ",
+                    "ト"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "na",
+                "answer": "ナ",
+                "options": [
+                    "ト",
+                    "ナ",
+                    "ショ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ni",
+                "answer": "ニ",
+                "options": [
+                    "ケ",
+                    "ニ",
+                    "ハ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "nu",
+                "answer": "ヌ",
+                "options": [
+                    "イ",
+                    "ヌ",
+                    "キャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ne",
+                "answer": "ネ",
+                "options": [
+                    "ネ",
+                    "パ",
+                    "チ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "no",
+                "answer": "ノ",
+                "options": [
+                    "ヌ",
+                    "ノ",
+                    "ク"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ha",
+                "answer": "ハ",
+                "options": [
+                    "チュ",
+                    "イ",
+                    "ハ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "hi",
+                "answer": "ヒ",
+                "options": [
+                    "ヒ",
+                    "ユ",
+                    "ビョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "fu",
+                "answer": "フ",
+                "options": [
+                    "ニ",
+                    "チ",
+                    "フ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "he",
+                "answer": "ヘ",
+                "options": [
+                    "ヘ",
+                    "ヤ",
+                    "リョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ho",
+                "answer": "ホ",
+                "options": [
+                    "ホ",
+                    "パ",
+                    "ギュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ma",
+                "answer": "マ",
+                "options": [
+                    "マ",
+                    "レ",
+                    "ゾ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "mi",
+                "answer": "ミ",
+                "options": [
+                    "ザ",
+                    "ギャ",
+                    "ミ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "mu",
+                "answer": "ム",
+                "options": [
+                    "キョ",
+                    "ム",
+                    "ヨ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "me",
+                "answer": "メ",
+                "options": [
+                    "メ",
+                    "ワ",
+                    "ピュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "mo",
+                "answer": "モ",
+                "options": [
+                    "ス",
+                    "モ",
+                    "キュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ya",
+                "answer": "ヤ",
+                "options": [
+                    "ヤ",
+                    "オ",
+                    "ジュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "yu",
+                "answer": "ユ",
+                "options": [
+                    "ユ",
+                    "ミャ",
+                    "チャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "yo",
+                "answer": "ヨ",
+                "options": [
+                    "ヨ",
+                    "チャ",
+                    "セ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ra",
+                "answer": "ラ",
+                "options": [
+                    "ラ",
+                    "ボ",
+                    "ナ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ri",
+                "answer": "リ",
+                "options": [
+                    "リ",
+                    "イ",
+                    "ミ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ru",
+                "answer": "ル",
+                "options": [
+                    "メ",
+                    "セ",
+                    "ル"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "re",
+                "answer": "レ",
+                "options": [
+                    "レ",
+                    "グ",
+                    "エ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ro",
+                "answer": "ロ",
+                "options": [
+                    "ニョ",
+                    "キャ",
+                    "ロ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "wa",
+                "answer": "ワ",
+                "options": [
+                    "ワ",
+                    "リュ",
+                    "ヌ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "wo",
+                "answer": "ヲ",
+                "options": [
+                    "ミ",
+                    "ヲ",
+                    "ブ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "n",
+                "answer": "ン",
+                "options": [
+                    "ド",
+                    "ン",
+                    "ム"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ga",
+                "answer": "ガ",
+                "options": [
+                    "ペ",
+                    "ガ",
+                    "バ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "gi",
+                "answer": "ギ",
+                "options": [
+                    "ギ",
+                    "キョ",
+                    "ピ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "gu",
+                "answer": "グ",
+                "options": [
+                    "グ",
+                    "ミャ",
+                    "ビャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ge",
+                "answer": "ゲ",
+                "options": [
+                    "ギャ",
+                    "ゲ",
+                    "ヅ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "go",
+                "answer": "ゴ",
+                "options": [
+                    "イ",
+                    "ト",
+                    "ゴ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "za",
+                "answer": "ザ",
+                "options": [
+                    "シ",
+                    "キュ",
+                    "ザ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ji",
+                "answer": "ジ",
+                "options": [
+                    "ヤ",
+                    "キュ",
+                    "ジ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "zu",
+                "answer": "ズ",
+                "options": [
+                    "ダ",
+                    "ズ",
+                    "ジャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ze",
+                "answer": "ゼ",
+                "options": [
+                    "ミャ",
+                    "ユ",
+                    "ゼ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "zo",
+                "answer": "ゾ",
+                "options": [
+                    "ゾ",
+                    "ビャ",
+                    "ス"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "da",
+                "answer": "ダ",
+                "options": [
+                    "ビョ",
+                    "ダ",
+                    "リャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ji",
+                "answer": "ヂ",
+                "options": [
+                    "ヂ",
+                    "ラ",
+                    "ニョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "zu",
+                "answer": "ヅ",
+                "options": [
+                    "ン",
+                    "ヅ",
+                    "ラ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "de",
+                "answer": "デ",
+                "options": [
+                    "ポ",
+                    "デ",
+                    "ベ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "do",
+                "answer": "ド",
+                "options": [
+                    "ジ",
+                    "メ",
+                    "ド"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ba",
+                "answer": "バ",
+                "options": [
+                    "バ",
+                    "ド",
+                    "ミ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "bi",
+                "answer": "ビ",
+                "options": [
+                    "ヌ",
+                    "シャ",
+                    "ビ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "bu",
+                "answer": "ブ",
+                "options": [
+                    "ブ",
+                    "ポ",
+                    "リャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "be",
+                "answer": "ベ",
+                "options": [
+                    "ヲ",
+                    "ベ",
+                    "ヤ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "bo",
+                "answer": "ボ",
+                "options": [
+                    "ネ",
+                    "ボ",
+                    "イ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pa",
+                "answer": "パ",
+                "options": [
+                    "ジ",
+                    "ソ",
+                    "パ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pi",
+                "answer": "ピ",
+                "options": [
+                    "ホ",
+                    "ピ",
+                    "セ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pu",
+                "answer": "プ",
+                "options": [
+                    "プ",
+                    "キャ",
+                    "ド"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pe",
+                "answer": "ペ",
+                "options": [
+                    "ミュ",
+                    "ラ",
+                    "ペ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "po",
+                "answer": "ポ",
+                "options": [
+                    "ピャ",
+                    "ポ",
+                    "メ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "kya",
+                "answer": "キャ",
+                "options": [
+                    "ヨ",
+                    "キャ",
+                    "ペ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "kyu",
+                "answer": "キュ",
+                "options": [
+                    "ゼ",
+                    "ス",
+                    "キュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "kyo",
+                "answer": "キョ",
+                "options": [
+                    "キョ",
+                    "ニ",
+                    "ミャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "sha",
+                "answer": "シャ",
+                "options": [
+                    "ゾ",
+                    "ド",
+                    "シャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "shu",
+                "answer": "シュ",
+                "options": [
+                    "ビョ",
+                    "ペ",
+                    "シュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "sho",
+                "answer": "ショ",
+                "options": [
+                    "ゴ",
+                    "ショ",
+                    "ユ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "cha",
+                "answer": "チャ",
+                "options": [
+                    "リャ",
+                    "ニ",
+                    "チャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "chu",
+                "answer": "チュ",
+                "options": [
+                    "チュ",
+                    "セ",
+                    "ア"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "cho",
+                "answer": "チョ",
+                "options": [
+                    "チョ",
+                    "タ",
+                    "チャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "nya",
+                "answer": "ニャ",
+                "options": [
+                    "リ",
+                    "キャ",
+                    "ニャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "nyu",
+                "answer": "ニュ",
+                "options": [
+                    "ニュ",
+                    "ミョ",
+                    "グ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "nyo",
+                "answer": "ニョ",
+                "options": [
+                    "ジュ",
+                    "ニョ",
+                    "ワ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "hya",
+                "answer": "ヒャ",
+                "options": [
+                    "ヒャ",
+                    "キ",
+                    "ヒュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "hyu",
+                "answer": "ヒュ",
+                "options": [
+                    "ジャ",
+                    "マ",
+                    "ヒュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "hyo",
+                "answer": "ヒョ",
+                "options": [
+                    "ヒョ",
+                    "ル",
+                    "ヒ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "mya",
+                "answer": "ミャ",
+                "options": [
+                    "ヘ",
+                    "テ",
+                    "ミャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "myu",
+                "answer": "ミュ",
+                "options": [
+                    "キュ",
+                    "プ",
+                    "ミュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "myo",
+                "answer": "ミョ",
+                "options": [
+                    "チョ",
+                    "ミョ",
+                    "デ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "rya",
+                "answer": "リャ",
+                "options": [
+                    "リャ",
+                    "シ",
+                    "ワ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ryu",
+                "answer": "リュ",
+                "options": [
+                    "リュ",
+                    "ダ",
+                    "ゴ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ryo",
+                "answer": "リョ",
+                "options": [
+                    "ポ",
+                    "リョ",
+                    "ゴ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "gya",
+                "answer": "ギャ",
+                "options": [
+                    "ゲ",
+                    "ム",
+                    "ギャ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "gyu",
+                "answer": "ギュ",
+                "options": [
+                    "リャ",
+                    "ギュ",
+                    "シ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "gyo",
+                "answer": "ギョ",
+                "options": [
+                    "ヒュ",
+                    "ギョ",
+                    "ネ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ja",
+                "answer": "ジャ",
+                "options": [
+                    "ラ",
+                    "ジャ",
+                    "ニョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "ju",
+                "answer": "ジュ",
+                "options": [
+                    "ネ",
+                    "ア",
+                    "ジュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "jo",
+                "answer": "ジョ",
+                "options": [
+                    "ジョ",
+                    "ギャ",
+                    "シュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "bya",
+                "answer": "ビャ",
+                "options": [
+                    "ビャ",
+                    "ニ",
+                    "ヂ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "byu",
+                "answer": "ビュ",
+                "options": [
+                    "ビュ",
+                    "ム",
+                    "フ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "byo",
+                "answer": "ビョ",
+                "options": [
+                    "キ",
+                    "キョ",
+                    "ビョ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pya",
+                "answer": "ピャ",
+                "options": [
+                    "ピャ",
+                    "ミュ",
+                    "モ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pyu",
+                "answer": "ピュ",
+                "options": [
+                    "シュ",
+                    "ペ",
+                    "ピュ"
+                ],
+                "attempted": false,
+                "correct": false
+            },
+            {
+                "text": "pyo",
+                "answer": "ピョ",
+                "options": [
+                    "ミュ",
+                    "ジ",
+                    "ピョ"
+                ],
+                "attempted": false,
+                "correct": false
+            }
+        ]
+    }
+]
